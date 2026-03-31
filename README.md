@@ -1,10 +1,10 @@
 <h2 align="center">
   <p align="center">
-    <a href="https://github.com/code-alchemist99"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Developer;&center=true&width=800"></a>
+    <a href="https://github.com/venus01015"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Developer;&center=true&width=800"></a>
   </p>
 </h2>
 <p>
-  <!--<img src="https://github.com/code-alchemist99/code-alchemist99/blob/main/thumbnail.png" alt="thumbnail" />-->
+  <!--<img src="https://github.com/venus01015/venus01015/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
     Experienced full-stack developer with expertise in building scalable, high-performance web applications. Proficient in JavaScript, TypeScript, C++, Python, React, Vue.js, Node.js, Express.js, WebGL, and Three.js, with a passion for developing immersive 3D web experiences. Skilled in backend technologies like PHP/Laravel, Python/Django, and Prisma, as well as working with databases such as MongoDB, MySQL, PostgreSQL, and FireBase.<br/><br/>My experience in integrating third-party APIs, developing RESTful and GraphQL APIs, and using real-time technologies like Socket.io further enhances my ability to deliver dynamic, user-centered solutions.
   </p>
@@ -42,7 +42,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>😇 My Github Stats</b>
 <p align="center" style="margin-bottom: 10px;">
-<img src="https://github-profile-trophy.vercel.app/?username=code-alchemist99&column=7&theme=onedark" alt="code-alchemist99" />
+<img src="https://github-profile-trophy.vercel.app/?username=venus01015&column=7&theme=onedark" alt="venus01015" />
 </p>
 <br/>
 
