@@ -1,6 +1,6 @@
 <h2 align="center">
   <p align="center">
-    <a href="https://github.com/venus01015"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full,%20Stack%20Software%20Engineer;&center=true&width=800"></a>
+    <a href="https://github.com/venus01015"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Software%20Engineer;&center=true&width=800"></a>
   </p>
 </h2>
 <p>
