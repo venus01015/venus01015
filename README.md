@@ -6,9 +6,7 @@
 <p>
   <!--<img src="https://github.com/venus01015/venus01015/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
-    I’m a Full Stack Engineer specializing in interactive 3D web experiences and AI-powered applications.<br/><br/>
-  I help startups and businesses build high-performance, visually engaging, and scalable web products that don’t just look impressive—they deliver real business results.<br/><br/>
-  With a strong focus on combining 3D, AI, and modern SaaS architecture, I bring ideas to life from concept to production-ready systems.<br/><br/>
+    Senior Frontend Engineer with expertise in building high-performance web applications using React, Next.js, TypeScript, and modern frontend architectures. Specialized in creating interactive 3D experiences with Three.js/WebGL, AI-powered applications, and scalable SaaS platforms. Experienced in collaborating with distributed teams, optimizing performance, improving user engagement, and delivering production-ready products for global users. Strong full-stack knowledge across Node.js, Python, PostgreSQL, AWS, and cloud-native architectures. <br/><br/>
   </p>
 </p>
 <br/>
