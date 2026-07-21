@@ -1,12 +1,23 @@
 <h2 align="center">
   <p align="center">
-    <a href="https://github.com/venus01015"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Software%20Engineer;&center=true&width=800"></a>
+    <a href="https://github.com/venus01015"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Software%20Engineer;&center=true&width=800"></a>
   </p>
 </h2>
 <p>
   <!--<img src="https://github.com/venus01015/venus01015/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
-    Senior Frontend Engineer with expertise in building high-performance web applications using React, Next.js, TypeScript, and modern frontend architectures. Specialized in creating interactive 3D experiences with Three.js/WebGL, AI-powered applications, and scalable SaaS platforms. Experienced in collaborating with distributed teams, optimizing performance, improving user engagement, and delivering production-ready products for global users. Strong full-stack knowledge across Node.js, Python, PostgreSQL, AWS, and cloud-native architectures. <br/><br/>
+    Software engineer and AI automation developer who helps businesses streamline operations, automate repetitive workflows, and build modern web applications that drive measurable results.<br/><br/>
+
+I specialize in creating custom business systems, AI-powered solutions, and high-performance websites that help companies save time, improve customer experiences, and generate more leads. Whether it's automating internal processes, integrating with CRMs, building client portals, or developing custom dashboards, my goal is always the same: use technology to solve real business problems.<br/><br/>
+
+My expertise includes React, Next.js, TypeScript, Node.js, Python, PostgreSQL, AWS, and modern cloud technologies. I also develop interactive 3D web experiences with Three.js/WebGL when they add meaningful value to a product or customer experience.<br/><br/>
+
+I enjoy working closely with founders, business owners, and teams to transform ideas into reliable, production-ready software. From planning and architecture to deployment and ongoing improvements, I focus on building solutions that are scalable, maintainable, and aligned with business goals.<br/><br/>
+
+Performance and quality are fundamental to every project I deliver. This portfolio, for example, achieves a perfect Lighthouse score—100 in Performance, Accessibility, Best Practices, and SEO—reflecting the same engineering standards I bring to every client engagement.<br/><br/>
+
+I'm always interested in collaborating with businesses looking to modernize their operations, automate workflows with AI, or build digital products that create long-term value.<br/><br/>
+ <br/><br/>
   </p>
 </p>
 <br/>
