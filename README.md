@@ -6,15 +6,11 @@
 <p>
   <!--<img src="https://github.com/venus01015/venus01015/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
-    Software engineer and AI automation developer who helps businesses streamline operations, automate repetitive workflows, and build modern web applications that drive measurable results.<br/><br/>
+    I'm Boyke Berry Nugraha, a Senior Software Engineer focused on building reliable digital products, AI-powered systems, automation, and high-performance web applications.<br/><br/>
 
-I specialize in creating custom business systems, AI-powered solutions, and high-performance websites that help companies save time, improve customer experiences, and generate more leads. Whether it's automating internal processes, integrating with CRMs, building client portals, or developing custom dashboards, my goal is always the same: use technology to solve real business problems.<br/><br/>
+My strongest work happens when engineering meets business context. I like understanding how a company actually operates, identifying where technology can create leverage, and turning that insight into software people can use every day.<br/><br/>
 
-My expertise includes React, Next.js, TypeScript, Node.js, Python, PostgreSQL, AWS, and modern cloud technologies. I also develop interactive 3D web experiences with Three.js/WebGL when they add meaningful value to a product or customer experience.<br/><br/>
-
-I enjoy working closely with founders, business owners, and teams to transform ideas into reliable, production-ready software. From planning and architecture to deployment and ongoing improvements, I focus on building solutions that are scalable, maintainable, and aligned with business goals.<br/><br/>
-
-Performance and quality are fundamental to every project I deliver. This portfolio, for example, achieves a perfect Lighthouse score—100 in Performance, Accessibility, Best Practices, and SEO—reflecting the same engineering standards I bring to every client engagement.<br/><br/>
+That might mean a website that creates more qualified inquiries, an internal dashboard that gives a team better visibility, an automated workflow that removes repetitive work, or a custom AI system built around company knowledge.<br/><br/>
 
 I'm always interested in collaborating with businesses looking to modernize their operations, automate workflows with AI, or build digital products that create long-term value.<br/><br/>
  <br/><br/>
