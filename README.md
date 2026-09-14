@@ -6,14 +6,63 @@
 <p>
   <!--<img src="https://github.com/venus01015/venus01015/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
-    I'm Boyke Berry Nugraha, a Senior Software Engineer focused on building reliable digital products, AI-powered systems, automation, and high-performance web applications.<br/><br/>
+    Most businesses don’t need more technology.<br/><br/>
 
-My strongest work happens when engineering meets business context. I like understanding how a company actually operates, identifying where technology can create leverage, and turning that insight into software people can use every day.<br/><br/>
+They need fewer problems.<br/><br/>
 
-That might mean a website that creates more qualified inquiries, an internal dashboard that gives a team better visibility, an automated workflow that removes repetitive work, or a custom AI system built around company knowledge.<br/><br/>
+Fewer leads slipping through the cracks.<br/>
+Fewer repetitive tasks consuming their team’s time.<br/>
+Fewer disconnected tools making operations harder.<br/>
+And more customers finding and choosing them.<br/>
 
-I'm always interested in collaborating with businesses looking to modernize their operations, automate workflows with AI, or build digital products that create long-term value.<br/><br/>
- <br/><br/>
+That’s where I come in.<br/><br/>
+
+I’m a Senior Software Engineer and Technology Partner helping businesses turn operational problems and growth opportunities into practical digital solutions.<br/><br/>
+
+Sometimes, that means building a high-performance website that helps customers discover the business through Google and AI search—and turns that visibility into service requests.<br/><br/>
+
+Sometimes, it’s a lead or estimate system that ensures every inquiry receives the right follow-up.<br/><br/>
+
+Sometimes, it’s automation that gives a team hours of valuable time back.<br/><br/>
+
+And sometimes, it’s an operational platform or AI-powered system that connects customers, projects, teams, workflows, and business data.<br/><br/>
+
+My approach begins with the business—not the technology:<br/><br/>
+
+Understand → Identify → Build → Improve<br/><br/>
+
+I work across:<br/><br/>
+
+• High-performance, SEO/AEO/GEO-focused websites<br/>
+• Custom business software<br/>
+• Operational dashboards and internal tools<br/>
+• AI applications and workflow automation<br/>
+• CRM, API, and third-party integrations<br/>
+• Customer portals and lead-generation systems<br/>
+• Interactive 3D and WebGL experiences<br/><br/>
+
+My engineering background includes Next.js, React, TypeScript, Node.js, Python, PostgreSQL, AWS, Supabase, Three.js/WebGL, AI/LLM integrations, and modern cloud technologies.<br/><br/>
+
+But clients don’t hire me because they need a particular technology stack.<br/><br/>
+
+They hire me because they need to:<br/><br/>
+
+• Generate more qualified opportunities<br/>
+• Become easier to find on Google and AI search engines<br/>
+• Reduce repetitive and manual work<br/>
+• Improve day-to-day operations<br/>
+• Deliver a better customer experience<br/>
+• Build infrastructure that can support growth<br/><br/>
+
+I want to be more than the developer you contact after deciding exactly what needs to be built.<br/><br/>
+
+I want to be the technology partner you can speak with when you see a problem or opportunity—but still need someone to understand it, design the right solution, and bring it to life.<br/><br/>
+
+You bring the business challenge.<br/><br/>
+
+I’ll help you turn it into a solution.<br/><br/>
+
+Clean code. Smart systems. Real business impact.<br/>
   </p>
 </p>
 <br/>
