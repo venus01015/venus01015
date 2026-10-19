@@ -6,32 +6,32 @@
 <p>
   <!--<img src="https://github.com/venus01015/venus01015/blob/main/thumbnail.png" alt="thumbnail" />-->
   <p>
-    Most businesses don’t need more technology.<br/><br/>
+    Most businesses don’t need more technology.<br/>
 
-They need fewer problems.<br/><br/>
+They need fewer problems.<br/>
 
-Fewer leads slipping through the cracks.<br/>
-Fewer repetitive tasks consuming their team’s time.<br/>
-Fewer disconnected tools making operations harder.<br/>
-And more customers finding and choosing them.<br/>
+• Fewer leads slipping through the cracks.<br/>
+• Fewer repetitive tasks consuming their team’s time.<br/>
+• Fewer disconnected tools making operations harder.<br/>
+• And more customers finding and choosing them.<br/>
 
-That’s where I come in.<br/><br/>
+That’s where I come in.<br/>
 
-I’m a Senior Software Engineer and Technology Partner helping businesses turn operational problems and growth opportunities into practical digital solutions.<br/><br/>
+I’m a Senior Software Engineer and Technology Partner helping businesses turn operational problems and growth opportunities into practical digital solutions.<br/>
 
-Sometimes, that means building a high-performance website that helps customers discover the business through Google and AI search—and turns that visibility into service requests.<br/><br/>
+Sometimes, that means building a high-performance website that helps customers discover the business through Google and AI search—and turns that visibility into service requests.<br/>
 
-Sometimes, it’s a lead or estimate system that ensures every inquiry receives the right follow-up.<br/><br/>
+Sometimes, it’s a lead or estimate system that ensures every inquiry receives the right follow-up.<br/>
 
-Sometimes, it’s automation that gives a team hours of valuable time back.<br/><br/>
+Sometimes, it’s automation that gives a team hours of valuable time back.<br/>
 
-And sometimes, it’s an operational platform or AI-powered system that connects customers, projects, teams, workflows, and business data.<br/><br/>
+And sometimes, it’s an operational platform or AI-powered system that connects customers, projects, teams, workflows, and business data.<br/>
 
-My approach begins with the business—not the technology:<br/><br/>
+My approach begins with the business—not the technology:<br/>
 
-Understand → Identify → Build → Improve<br/><br/>
+Understand → Identify → Build → Improve<br/>
 
-I work across:<br/><br/>
+I work across:<br/>
 
 • High-performance, SEO/AEO/GEO-focused websites<br/>
 • Custom business software<br/>
@@ -39,28 +39,28 @@ I work across:<br/><br/>
 • AI applications and workflow automation<br/>
 • CRM, API, and third-party integrations<br/>
 • Customer portals and lead-generation systems<br/>
-• Interactive 3D and WebGL experiences<br/><br/>
+• Interactive 3D and WebGL experiences<br/>
 
-My engineering background includes Next.js, React, TypeScript, Node.js, Python, PostgreSQL, AWS, Supabase, Three.js/WebGL, AI/LLM integrations, and modern cloud technologies.<br/><br/>
+My engineering background includes Next.js, React, TypeScript, Node.js, Python, PostgreSQL, AWS, Supabase, Three.js/WebGL, AI/LLM integrations, and modern cloud technologies.<br/>
 
-But clients don’t hire me because they need a particular technology stack.<br/><br/>
+But clients don’t hire me because they need a particular technology stack.<br/>
 
-They hire me because they need to:<br/><br/>
+They hire me because they need to:<br/>
 
 • Generate more qualified opportunities<br/>
 • Become easier to find on Google and AI search engines<br/>
 • Reduce repetitive and manual work<br/>
 • Improve day-to-day operations<br/>
 • Deliver a better customer experience<br/>
-• Build infrastructure that can support growth<br/><br/>
+• Build infrastructure that can support growth<br/>
 
-I want to be more than the developer you contact after deciding exactly what needs to be built.<br/><br/>
+I want to be more than the developer you contact after deciding exactly what needs to be built.<br/>
 
-I want to be the technology partner you can speak with when you see a problem or opportunity—but still need someone to understand it, design the right solution, and bring it to life.<br/><br/>
+I want to be the technology partner you can speak with when you see a problem or opportunity—but still need someone to understand it, design the right solution, and bring it to life.<br/>
 
-You bring the business challenge.<br/><br/>
+You bring the business challenge.<br/>
 
-I’ll help you turn it into a solution.<br/><br/>
+I’ll help you turn it into a solution.<br/>
 
 Clean code. Smart systems. Real business impact.<br/>
   </p>
