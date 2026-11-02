@@ -98,10 +98,4 @@ Clean code. Smart systems. Real business impact.<br/>
 </p>
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>😇 My Github Stats</b>
-<p align="center" style="margin-bottom: 10px;">
-<img src="https://github-profile-trophy.vercel.app/?username=venus01015&column=7&theme=onedark" alt="venus01015" />
-</p>
-<br/>
-
 ## 🎬 I am ready to start a new challenge with you, so feel free to ping me.</b>
